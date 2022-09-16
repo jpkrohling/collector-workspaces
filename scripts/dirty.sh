@@ -24,6 +24,7 @@ pushd ${module}
 go mod edit -require github.com/jpkrohling/collector-workspaces@${version}
 popd
 
+tag="${version}"
 git commit -sam "Release script - updated all go.mod files"
 git tag ${tag}
 git push git@github.com:jpkrohling/collector-workspaces.git ${tag}
