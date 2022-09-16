@@ -1,4 +1,4 @@
-github.com/jpkrohling/collector-workspaces/pdata v0.0.2 h1:oaqeQMrNLn/eZQLaIOhGZBG4LQYIODmjmDC1iJiNMbw=
-github.com/jpkrohling/collector-workspaces/pdata v0.0.2/go.mod h1:zR9rA680UZ6RNrL84Byx2OrKQHgt849wxUhMjkMnDOs=
-github.com/jpkrohling/collector-workspaces/semconv v0.0.2 h1:7ZrpKOy6F8mYubc/TLNzsJznyg0QJ9swnJBEv/0i3GU=
-github.com/jpkrohling/collector-workspaces/semconv v0.0.2/go.mod h1:zcGrBJpDkRB6VTCbV3ZH6C61DL/TF1p5s370SyMzKGE=
+github.com/jpkrohling/collector-workspaces/pdata v0.0.3 h1:gA87z7kgSGzaxqplZex3u6nPAjSu+1N9NCOXvtsKgTo=
+github.com/jpkrohling/collector-workspaces/pdata v0.0.3/go.mod h1:zR9rA680UZ6RNrL84Byx2OrKQHgt849wxUhMjkMnDOs=
+github.com/jpkrohling/collector-workspaces/semconv v0.0.3 h1:BcJbOFwjOoIp5ZXCYssh5G/ItKa6VXkVrhCba1lq0Oo=
+github.com/jpkrohling/collector-workspaces/semconv v0.0.3/go.mod h1:zcGrBJpDkRB6VTCbV3ZH6C61DL/TF1p5s370SyMzKGE=
