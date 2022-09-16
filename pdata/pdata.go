@@ -1,0 +1,3 @@
+package pdata
+
+func Some() {}

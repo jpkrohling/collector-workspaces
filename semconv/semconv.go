@@ -1,0 +1,3 @@
+package semconv
+
+func Some() {}
